@@ -2,7 +2,7 @@
 
 This project is a seed for creating [.NETf Core][dotnet] service projects.
 
-[dotnet]: https://github.com/dotnet/core (.NET Core)
+[dotnet]: https://github.com/dotnet/core (.NET Core)fff
 
 ## Development
 
